@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Migrations\\20241227105157_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OrderProductAPI\\Migrations\\20241227105157_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\controllers\\querycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\controllers\\querycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\models\\orderproductapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\models\\orderproductapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\services\\databaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\services\\databaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\services\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\services\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\services\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\services\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\orderproductapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\orderproductapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|c:\\users\\unknown\\source\\repos\\orderproductapi\\orderproductapi\\orderproductapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B6E2FED9-46B6-4C02-9904-E4D79F1C059B}|OrderProductAPI\\OrderProductAPI.csproj|solutionrelative:orderproductapi\\orderproductapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241227105157_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Migrations\\20241227105157_initial.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Migrations\\20241227105157_initial.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Migrations\\20241227105157_initial.cs",
+              "RelativeToolTip": "OrderProductAPI\\Migrations\\20241227105157_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:51:57.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "OrderProductAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:36:49.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QueryController.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Controllers\\QueryController.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Controllers\\QueryController.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Controllers\\QueryController.cs",
+              "RelativeToolTip": "OrderProductAPI\\Controllers\\QueryController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:36:42.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "OrderProductAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:36:35.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderProductAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAjwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:35:52.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "OrderProductAPI\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:32:36.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Program.cs",
+              "RelativeToolTip": "OrderProductAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:34:22.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderProductAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\appsettings.json",
+              "RelativeToolTip": "OrderProductAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T10:46:33.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "OrderProductAPI\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:35:01.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "OrderProductAPI\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:35:04.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Models\\Log.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Models\\Log.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Models\\Log.cs",
+              "RelativeToolTip": "OrderProductAPI\\Models\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:35:08.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Models\\Order.cs",
+              "RelativeToolTip": "OrderProductAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:35:10.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderProductAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Models\\OrderProductAPIContext.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Models\\OrderProductAPIContext.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Models\\OrderProductAPIContext.cs",
+              "RelativeToolTip": "OrderProductAPI\\Models\\OrderProductAPIContext.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwBsAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:35:14.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Models\\Product.cs",
+              "RelativeToolTip": "OrderProductAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:35:20.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "OrderProductAPI\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:42:48.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "OrderProductAPI\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:45:18.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Services\\DatabaseLogger.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Services\\DatabaseLogger.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Services\\DatabaseLogger.cs",
+              "RelativeToolTip": "OrderProductAPI\\Services\\DatabaseLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:34:26.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Services\\FileLogger.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Services\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Services\\FileLogger.cs",
+              "RelativeToolTip": "OrderProductAPI\\Services\\FileLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:34:40.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Services\\ILogger.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\Services\\ILogger.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\Services\\ILogger.cs",
+              "RelativeToolTip": "OrderProductAPI\\Services\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:34:48.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "OrderProductAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "OrderProductAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:34:20.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderProductAPI",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\OrderProductAPI.csproj",
+              "RelativeDocumentMoniker": "OrderProductAPI\\OrderProductAPI.csproj",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\OrderProductAPI.csproj",
+              "RelativeToolTip": "OrderProductAPI\\OrderProductAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T10:36:19.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderProductAPI.http",
+              "DocumentMoniker": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\OrderProductAPI.http",
+              "RelativeDocumentMoniker": "OrderProductAPI\\OrderProductAPI.http",
+              "ToolTip": "C:\\Users\\Unknown\\source\\repos\\OrderProductAPI\\OrderProductAPI\\OrderProductAPI.http",
+              "RelativeToolTip": "OrderProductAPI\\OrderProductAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-27T10:31:00.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
